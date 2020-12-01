@@ -1,0 +1,1 @@
+Esta aplicacion aporta utilidad el manejo y administracion de un hospital mediante el control de usuarios, añadiendo los doctores, pacientes, citas y creando una realacion con estas
